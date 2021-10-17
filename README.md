@@ -26,8 +26,12 @@
 1. Connect Microphone Array to the PC or Laptop
 2. run the following script in the terminal
     python intgsys_realtime.py
+    
+![POE](https://user-images.githubusercontent.com/59057196/137617528-c9b87472-2f92-46f1-8412-04dc3b624e9f.jpg)
 
 ### For the Raspberry Pi setup:
+
+![mic-array](https://user-images.githubusercontent.com/59057196/137617404-468815de-adbe-4f12-81e0-9168a542f8f2.jpg)
 
 Hardware and software requirements as well as steps to install the Raspbian OS can be found here:
 https://ubuntu.com/tutorials/how-to-install-ubuntu-on-your-raspberry-pi#1-overview
